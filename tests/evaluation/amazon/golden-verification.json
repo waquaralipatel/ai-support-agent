@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "candidate-1",
+    "customer_message": "3 different people have given 3 different answers and I still don't have my order. Says delivered Saturday, was not, I was home all day",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to take a further look into this with you! Please reach us by phone or chat here: ^AG",
+    "verified": false
+  },
+  {
+    "id": "candidate-2",
+    "customer_message": "How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it’s only a week away",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the wait. You'll receive an email as soon as we have an estimated delivery date. ^FJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-3",
+    "customer_message": "Yeah this is crazy we’re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for your patience. ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-4",
+    "customer_message": "my package was ‘accidentally’ opened.. 4 items missing worth £97. You need better delivery drivers!!",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry your order arrived in this condition! Please reach out to us for available options: ^DG",
+    "verified": false
+  },
+  {
+    "id": "candidate-5",
+    "customer_message": "why is my order at my local courier for the last 6 days and still hasn’t been delivered to me?? Over 1 week late 😡",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the wait. Please reach out to us so we can take a closer look at this delivery: ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-6",
+    "customer_message": ". Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: ^SY",
+    "verified": false
+  },
+  {
+    "id": "candidate-7",
+    "customer_message": "That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "You can also request a call back here Martin ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-8",
+    "customer_message": "Is it possible to prevent AMZL from delivering my packages moving forward? Stuff is either lost/stolen/broken EVERY time.",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! We want to hear more about your experience with AMZL. Please provide your feedback here: ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-9",
+    "customer_message": "delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! Please contact us via phone/chat here: We're unable to view order details via Twitter. ^KL",
+    "verified": false
+  },
+  {
+    "id": "candidate-10",
+    "customer_message": "Anna Inspired in idea lab at school to be package being shipped to Narnia! \"Amazon can go anywhere\" according to Anna.",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "You're not lion! She even shows witch way is up! That's quite the wardrobe! ^AC",
+    "verified": false
+  },
+  {
+    "id": "candidate-11",
+    "customer_message": "Yeah idk the shipping company and it says “mike Ziemer” signed for it in the mail room at our building lol",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "That's okay! Thanks for checking! Please contact us by phone or chat and we can look into this: ^BN",
+    "verified": false
+  },
+  {
+    "id": "candidate-12",
+    "customer_message": "Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated & new status will be provided in 1 day!",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please share your details here: and I'll get back to you. 2/2 ^HD",
+    "verified": false
+  },
+  {
+    "id": "candidate-13",
+    "customer_message": "Just pulled another #Amazon delivery out of the bushes since the #amzl people can’t walk the extra 2 ft to my door. So tired of this.",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry we let you down! We'd like to make sure this is addressed. Please provide some details here: ^BN",
+    "verified": false
+  },
+  {
+    "id": "candidate-14",
+    "customer_message": "my order hasn’t arrived (it was due 14th October). Can you help?",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hey Georgia! Sorry you haven't received your package. We'd love to help! What does the current tracking say on your order? ^AJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-15",
+    "customer_message": "I ordered some parts of my costume late, but my amazon has a map of the driver and they're like, 6 houses away.",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the long wait; what is your current order status showing when you review it: ^WM",
+    "verified": false
+  },
+  {
+    "id": "candidate-16",
+    "customer_message": "My package just got here. All good, thank you!",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thank you for keeping us posted, Rachael! ^BA",
+    "verified": false
+  },
+  {
+    "id": "candidate-17",
+    "customer_message": "that is not my apartment!!!!!!! This is the sending time!!!! Where is my package!!!!!!!!!!",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "(2/2) Also, for your security, I'd recommend deleting the image, as it contains your tracking number. ^WT",
+    "verified": false
+  },
+  {
+    "id": "candidate-18",
+    "customer_message": "that is not my apartment!!!!!!! This is the sending time!!!! Where is my package!!!!!!!!!!",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry! We'd like to make sure this is addressed. Please provide some details here: (1/2)",
+    "verified": false
+  },
+  {
+    "id": "candidate-19",
+    "customer_message": "Hi, I ordered an item on 18 Oct which said it would be delivered by 20 Oct and I still haven't received it. Can you help? Thanks",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry you haven't received it yet! Have you had an e-mail regarding the order? Please check junk/spam and let us know! ^TG",
+    "verified": false
+  },
+  {
+    "id": "candidate-20",
+    "customer_message": "I made a same day ship mid Monday and it said it would deliver that day. It didn’t. Today it still says out for delivery, still no show.",
+    "suggested_intent": "ORDER_DELIVERY",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry for the late delivery, Kimmie! Our carriers can deliver until 8 PM, please keep us updated on its arrival. ^BE",
+    "verified": false
+  },
+  {
+    "id": "candidate-21",
+    "customer_message": ". Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry you didn't receive your parcel! We'd like a chance to look into this with you here: ^SY",
+    "verified": false
+  },
+  {
+    "id": "candidate-22",
+    "customer_message": "Where is my order?",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry it hasn't arrived! Please reach us here: so we can look into available options. ^SJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-23",
+    "customer_message": "AMZL US Tracking ID TBA566517950000 it says delivered to mail room, I checked the mail and the front offce, the driver listed 1 package, in that one package was my XLR cables...I'm missing the controller.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I understand your frustration! Our team would like a chance to address this concern. At your convenience, include your details here: ^SJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-24",
+    "customer_message": "The tracking indicated as here, and then, it seemed to go back in time, saying it was not here anymore. I believe it's USPS",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please get in touch with us here: and we'd be happy to review available options with you. ^EZ",
+    "verified": false
+  },
+  {
+    "id": "candidate-25",
+    "customer_message": "I'm thinking that tracking is total fiction - package has been \"Out for Delivery\" for 2 days & hasn't arrived. 3 days late.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! I'm sorry you haven't received your order! Please contact us here so we may look into this: ^BN",
+    "verified": false
+  },
+  {
+    "id": "candidate-26",
+    "customer_message": "Carrier: AMZL US, Tracking #: TBA516106123000",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'd like someone from my team to check into this. When you can, please drop your details here: ^BL",
+    "verified": false
+  },
+  {
+    "id": "candidate-27",
+    "customer_message": "I ordered the Oasis, my order status showed it was to be delivered today and it did not come. Very disappointed.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no, Kathleen! We want to help. Is there an updated delivery date showing here: ^LA",
+    "verified": false
+  },
+  {
+    "id": "candidate-28",
+    "customer_message": "no body inform me. once u return that parcel. please send the tracking id or parcel details. but after 10days i call amazon custamare care",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thank you for sharing your details, Dhinesh. We'll check your concern and reach you soon. ^VG",
+    "verified": false
+  },
+  {
+    "id": "candidate-29",
+    "customer_message": "My package still doesn’t have a tracking number I ordered last week...and no updated email just says not shipped ...",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for any inconvenience! Can you tell us when your order is due to arrive? ^EZ",
+    "verified": false
+  },
+  {
+    "id": "candidate-30",
+    "customer_message": "HEY, I have 30 packages that need to be refunded on nov 5th which is the estimated shipping time. fake tracking. never shipped.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Are the packages sold/fulfilled by Amazon or a third-party seller? That info can be found here: ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-31",
+    "customer_message": "where is my order? I paid for 1 day delivery yesterday and no notification to say to pick it up at the pick up point.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I am sorry for the wait! What's the latest tracking/delivery date shown in Your Orders here: ^LM",
+    "verified": false
+  },
+  {
+    "id": "candidate-32",
+    "customer_message": "Hi, just curious as to why tracking details for my item haven't been updated. Can you help?",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hi, tracking isn't available for all parcels, do you see a carrier name? What expected delivery date is provided? ^TS",
+    "verified": false
+  },
+  {
+    "id": "candidate-33",
+    "customer_message": "It was supposed to arrive yesterday and now it's changed to by the 6th. Bit confused with the fact there is partial tracking information.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Let's take a look into this together. When you get the chance, please reach out to us here: ^TH",
+    "verified": false
+  },
+  {
+    "id": "candidate-34",
+    "customer_message": "one order was suppose to be delivered by 30th october , still no tracking available for the same as on 1/11/17",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "team here: and we'll sort this for you at the earliest. 2/2 ^KH",
+    "verified": false
+  },
+  {
+    "id": "candidate-35",
+    "customer_message": "one order was suppose to be delivered by 30th october , still no tracking available for the same as on 1/11/17",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the inconvenience. Kindly report it to our support 1/2 ^KH",
+    "verified": false
+  },
+  {
+    "id": "candidate-36",
+    "customer_message": "It did not say on the tracking who was carrying it. I did get contacted from Amazon and now they promised first thing in the morning.",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! I'm sorry for the delay. Please keep us in the loop and let us know if you receive the package by the new date. ^TG",
+    "verified": false
+  },
+  {
+    "id": "candidate-37",
+    "customer_message": "I have had horrible experience with return pick up which was to arrive on 26.10.17. Still awaited. Tracking no. 710399667431",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please don’t provide your order details as it is personal information. Our page is visible to the public.2/2^HN",
+    "verified": false
+  },
+  {
+    "id": "candidate-38",
+    "customer_message": "I have had horrible experience with return pick up which was to arrive on 26.10.17. Still awaited. Tracking no. 710399667431",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry for the hassle. Please report this to our support team here: and we'll check this. 1/2^HN",
+    "verified": false
+  },
+  {
+    "id": "candidate-39",
+    "customer_message": "Tracking ID = 936128__credit_card__ by USPS, and no email updates. The only thing I've gotten is what I sent in a screenshot. Thanks!",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Mhm that is interesting! We would like to review your options in real-time. Please contact us via phone or chat here: ^LS",
+    "verified": false
+  },
+  {
+    "id": "candidate-40",
+    "customer_message": "is there something wrong with your package tracking? It’s very inaccurate lately 🤔",
+    "suggested_intent": "ORDER_STATUS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the trouble! What tracking information are you seeing on your order? Are you seeing different tracking on the carrier's website? ^JP",
+    "verified": false
+  },
+  {
+    "id": "candidate-41",
+    "customer_message": "Already started the return. UPS gets it from my doorstep tomorrow. Order 111-5014070-4118645",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Provide your details here: and my team will escalate the order to Amazon Logistics for feedback. ^EZ",
+    "verified": false
+  },
+  {
+    "id": "candidate-42",
+    "customer_message": ", it’d be nice if the book I waited 4 months for wasn’t damaged inside of an undented box. #twinpeaks #twin…",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry your book arrived this way! You can find replacement/refund options here: ^VS",
+    "verified": false
+  },
+  {
+    "id": "candidate-43",
+    "customer_message": "delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! Please contact us via phone/chat here: We're unable to view order details via Twitter. ^KL",
+    "verified": false
+  },
+  {
+    "id": "candidate-44",
+    "customer_message": "I called customer service and was told my membership wouldn't be renewed. I was just charged today. How do I get a refund?",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Canceling your Prime membership can be done here: You'll be shown your estimated refund there. ^SK",
+    "verified": false
+  },
+  {
+    "id": "candidate-45",
+    "customer_message": "yes i did,but amazonuk is not doing the refund process.if they do it .i will get the money",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I would like someone from our team to take a look into this for you, Sanu. Please reach out here: ^LA",
+    "verified": false
+  },
+  {
+    "id": "candidate-46",
+    "customer_message": "i mailed amazonuk so many time. but i havent got any progress.customer care just saying thats in the billing section.no i havent got refund",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Have you had a chance to speak with your bank regarding the refund? ^EA",
+    "verified": false
+  },
+  {
+    "id": "candidate-47",
+    "customer_message": "amazonuk took money without any they are not giving it back nor giving clear statement of my refund proces",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the frustration! Without giving personal/account details, could you tell us a bit more about what's going on? ^DG",
+    "verified": false
+  },
+  {
+    "id": "candidate-48",
+    "customer_message": "I would like it replaced not refunded. But the sale is over, and doesn’t look like you have it in stock at the site. What are my other options?",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for reaching back out to us! If your item is not eligible for replacement, you can still return the item for a full refund instead. You can view your replacement and/or return options here: ^BN",
+    "verified": false
+  },
+  {
+    "id": "candidate-49",
+    "customer_message": "And you guys have officially lost me as a customer. Was promised today...was never shipped. Give me my refund please so I may take my business else where.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm truly sorry for the inconvenience! We don't have access to your account via Twitter. We'd like to help if we can. Please connect with us here so we can assist you: ^MO",
+    "verified": false
+  },
+  {
+    "id": "candidate-50",
+    "customer_message": "UPS supposed to pick up a return package yesterday and bring return label... never showed.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry your package wasn't picked up! When you have a moment, reach out to us here: ^AC",
+    "verified": false
+  },
+  {
+    "id": "candidate-51",
+    "customer_message": "Worst experience in shopping no product no refund , been 40 days. F& it",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please report this to our support team here: and we'll look into this. 2/2 ^HD",
+    "verified": false
+  },
+  {
+    "id": "candidate-52",
+    "customer_message": "What support team are you talking about ? I called twice n they make it sound like they will graciously refund my money. But then nothing",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry for this ordeal, Benish. Please share your details here: and I'll get in touch with you. ^HD",
+    "verified": false
+  },
+  {
+    "id": "candidate-53",
+    "customer_message": "Worst experience in shopping no product no refund , been 40 days. F& it",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Apologies for the delay in delivery of your order, Benish. We'd like to take a closer look. 1/2 ^HD",
+    "verified": false
+  },
+  {
+    "id": "candidate-54",
+    "customer_message": "I seem to have bad luck in trying to get undamaged books from . Sometimes it's damaged in delivery, but this one was packed this way.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry about the damage, Raymond! Have you explored options for refund/replacement here: ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-55",
+    "customer_message": "I've returned several things lately and don't want Amazon to think I'm abusing the return policy.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I understand! Returns can be made as long as they fall under this policy: Hope this helps! ^BL",
+    "verified": false
+  },
+  {
+    "id": "candidate-56",
+    "customer_message": "Was sent this item in 6x9 size. Trying to return & UPS did not show up today. I'd keep item if I could get refund for price difference.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We would like to investigate further with you. Please reach out to us at your convenience: ^JP",
+    "verified": false
+  },
+  {
+    "id": "candidate-57",
+    "customer_message": "Seriously what is up with ordering things and it being open? You guys shipping returned items. 2nd day in a row this happens :SMH:",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We do not want this to happen and are eager to help. Reach out to us for more assistance here: ^LM",
+    "verified": false
+  },
+  {
+    "id": "candidate-58",
+    "customer_message": "Unable to what they promised not gave one plus 5 offer only sale product after they Dont care also not return back,Its hopless😡",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry for the inconvenience. Please share your details here: and I'll get in touch with you. ^MK",
+    "verified": false
+  },
+  {
+    "id": "candidate-59",
+    "customer_message": "What the hell ?! This boxed is beyond damaged. I wanted a new one!",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry! Was it shipped by Amazon or a third-party seller as seen here: ^SE",
+    "verified": false
+  },
+  {
+    "id": "candidate-60",
+    "customer_message": "407-8406190-7752345. i want refund amount -1399/- amazon seller was lying. amazon custamare care side also.",
+    "suggested_intent": "RETURNS_REFUNDS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please don't provide your order details, we consider it to be personal information. Our page is visible to the public. ^SC",
+    "verified": false
+  },
+  {
+    "id": "candidate-61",
+    "customer_message": "but I can’t find the options to cancel or re-order?",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the delay! We'd like to take a further look into this with you! Please reach us here: ^AG",
+    "verified": false
+  },
+  {
+    "id": "candidate-62",
+    "customer_message": "I have tried. It’s not allowing me to access my account to cancel my membership, I haven’t even used prime in almost 3 months.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry to hear you're not able to access your account. Please use this link instead to contact us: ^LH",
+    "verified": false
+  },
+  {
+    "id": "candidate-63",
+    "customer_message": "being charged for amazon prime & when I go to cancel it, it’s saying I’m not a member😠😠😠",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hmm... We'd like to take a better look at this with you. Please reach us via phone/chat here: ^KP",
+    "verified": false
+  },
+  {
+    "id": "candidate-64",
+    "customer_message": "Two fake items in one day. Time to cancel my Amazon Prime membership.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! I'm so sorry to hear this. Was the item sold by Amazon directly or Third-party seller: ^LH",
+    "verified": false
+  },
+  {
+    "id": "candidate-65",
+    "customer_message": "Cancelación de membresía Amazon Prime y reembolso ya!",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hola MaryGuerra. Para cancelar Amazon Prime por favor accesa este link para instrucciones: ^JJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-66",
+    "customer_message": "hi I cancelled an item today but the money has not shown back up in my bank yet can you tell me how long it takes?",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hi there, items are not billed to you until they have shipped. If you have been charged for the order already, the refund will reflect on your account within 5-7 business days. You can read more about it here: -RD",
+    "verified": false
+  },
+  {
+    "id": "candidate-67",
+    "customer_message": "I have asked the customer care exec on phone to cancel the order. Don't want to waste any more of my time on this.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry about the trouble Manak. Kindly reply to the email sent by our team for further assistance. ^GD",
+    "verified": false
+  },
+  {
+    "id": "candidate-68",
+    "customer_message": "I am now cancelling this order because your delivery service just sucks despite prime membership. Switching to for future.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "you've received from our team and we will get back to you with the latest update on your issue. (2/2)^SQ",
+    "verified": false
+  },
+  {
+    "id": "candidate-69",
+    "customer_message": "yes spoke w/ customer service, still canceling my prime though since it does literally nothing apparently",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to take a closer look. When you can, please provide us some more information here: ^TN",
+    "verified": false
+  },
+  {
+    "id": "candidate-70",
+    "customer_message": "Seriously!!! Ur customer service already told me cancel d order .. Amazon can't do anything to it..n till now it's showing expected on 25th👏",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'd like to help. Please write to us here: and I'll reach out to you. ^SA",
+    "verified": false
+  },
+  {
+    "id": "candidate-71",
+    "customer_message": "fuck you guys. Canceling Prime. Not gonna do business with you guys ever again.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "This isn't how we want you to feel. We'd like to help, if possible. Please let us know more about what's going. ^BH",
+    "verified": false
+  },
+  {
+    "id": "candidate-72",
+    "customer_message": "Amazon its a complete fraud now u are saying u will ship till 7th please for god sake #help #cancelorder #refund #fraud #poorcustomerservice",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Could you please let us know if you had received any email stating the package was going to be shipped by 7th ? ^KS",
+    "verified": false
+  },
+  {
+    "id": "candidate-73",
+    "customer_message": "Amazon its a complete fraud now u are saying u will ship till 7th please for god sake #help #cancelorder #refund #fraud #poorcustomerservice",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "That is unusual, Aadil. Looking at the image, I see that the package will be delivered between 3rd to 6th November. ^KS 1/2",
+    "verified": false
+  },
+  {
+    "id": "candidate-74",
+    "customer_message": "wht explanation would you like 2 gv now as mor order got cancelled n products r returned back after waiting 4 mor thn two weeks?",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry about that. Could you confirm sharing your details in the link shared earlier? ^GK",
+    "verified": false
+  },
+  {
+    "id": "candidate-75",
+    "customer_message": "The pick up has been arranged 5 times now and cancelled at the last moment without citing any reason!",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'd like to take a closer look into it. Please fill in this form: and I'll revert shortly. ^AB",
+    "verified": false
+  },
+  {
+    "id": "candidate-76",
+    "customer_message": "again acted as disappoiment and spoiler. This is 2nd time when delivery of order was confirmed on call and then it was canceled",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I apologize for this. May I know if you've connected with our support team regarding this? ^SK",
+    "verified": false
+  },
+  {
+    "id": "candidate-77",
+    "customer_message": "how to stop my prime membership, since i was scammed and you do nothing to me, i need to cancel my membership.",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Which Amazon website did this happen on? ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-78",
+    "customer_message": "frnd ordered kindle wich was not delivered.He canceled order & U agreed. Bt aftr a mnth U r denying to give refund. Disappointing",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "here: and I’ll contact you soon. 2/2 ^AH",
+    "verified": false
+  },
+  {
+    "id": "candidate-79",
+    "customer_message": "frnd ordered kindle wich was not delivered.He canceled order & U agreed. Bt aftr a mnth U r denying to give refund. Disappointing",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "That's strange. I'd like to assist you with this, kindly drop in your details 1/2 ^AH",
+    "verified": false
+  },
+  {
+    "id": "candidate-80",
+    "customer_message": "Yo stop putting my account on hold! I just got it off hold yesterday and it's already back on hold and orders cancelled wtf!?",
+    "suggested_intent": "ORDER_CANCELLATION",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry about that, have you received an email from an account specialist? ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-81",
+    "customer_message": "I want my amazon payments account CLOSED. dm me please.",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I am unable to affect your account via Twitter. For real time support, phone or chat use this link: ^CH",
+    "verified": false
+  },
+  {
+    "id": "candidate-82",
+    "customer_message": "delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! Please contact us via phone/chat here: We're unable to view order details via Twitter. ^KL",
+    "verified": false
+  },
+  {
+    "id": "candidate-83",
+    "customer_message": "I called customer service and was told my membership wouldn't be renewed. I was just charged today. How do I get a refund?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Canceling your Prime membership can be done here: You'll be shown your estimated refund there. ^SK",
+    "verified": false
+  },
+  {
+    "id": "candidate-84",
+    "customer_message": "Thats the thing I told customer service. I created a new email address for the Prime trial and forgot it. What can I do so I'm not charged?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hey Corey! Even on the new account you made you can turn of the auto renew through the same link ^SK posted for you. ^AJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-85",
+    "customer_message": "being charged for amazon prime & when I go to cancel it, it’s saying I’m not a member😠😠😠",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hmm... We'd like to take a better look at this with you. Please reach us via phone/chat here: ^KP",
+    "verified": false
+  },
+  {
+    "id": "candidate-86",
+    "customer_message": "where can I chat with a support member for a false charge",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry you've encountered an unknown charge! We'd be happy to look into this with you here: ^BL",
+    "verified": false
+  },
+  {
+    "id": "candidate-87",
+    "customer_message": "i mailed amazonuk so many time. but i havent got any progress.customer care just saying thats in the billing section.no i havent got refund",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Have you had a chance to speak with your bank regarding the refund? ^EA",
+    "verified": false
+  },
+  {
+    "id": "candidate-88",
+    "customer_message": "and redund issued on 13th no sing of my money and amazonuk just saying its in the billing department.no signof devlp",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "When you last contacted us what information did we provide? Have you spoken with your bank to see if they have the refund? ^LR",
+    "verified": false
+  },
+  {
+    "id": "candidate-89",
+    "customer_message": "when do you guys charge for the Xbox one X I preordered? It ships the 6th.",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for reaching out to us! You will be charged for your order once it ships out. ^FJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-90",
+    "customer_message": "It is a doorstep pick up but I need to bear the charges for the courier while I am struggling to get a refund for the already paid order",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Was a pick up arranged on your order or were you asked to self-return it? Please tell us more. ^HK",
+    "verified": false
+  },
+  {
+    "id": "candidate-91",
+    "customer_message": "Also concern how I get my shipping charges back once self return product?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please connect with us using this link here: for further assistance. ^KA",
+    "verified": false
+  },
+  {
+    "id": "candidate-92",
+    "customer_message": "hey I started a Amazon prime trial..i was charged $1..wats that about ?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "When you sign up for a Prime free trial, we send an authorization to your bank. Here's more info: ^JP",
+    "verified": false
+  },
+  {
+    "id": "candidate-93",
+    "customer_message": "why am i charged $10.99 for prime membership every month when i have purchased it for INR 499?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please connect with us here: and we'll assist you on how to proceed further. (2/2) ^KA",
+    "verified": false
+  },
+  {
+    "id": "candidate-94",
+    "customer_message": "why am i charged $10.99 for prime membership every month when i have purchased it for INR 499?",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry about the payment issue. This charge could be of Prime subscription on (1/2) ^KA",
+    "verified": false
+  },
+  {
+    "id": "candidate-95",
+    "customer_message": "Please elaborate. If the charges are of prime subscription on then why was i charged 499 in the first place??",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to have a look into the same; hence the request. Kindly reach out to our support team for further assistance. ^AB",
+    "verified": false
+  },
+  {
+    "id": "candidate-96",
+    "customer_message": "at my address. Will pay then return charges. But also want to tell u this is not right that we pay self return courier cost then what's",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I understand your concern, unfortunately we cannot arrange a return as already mentioned. Kindly self-return the order. ^ZH",
+    "verified": false
+  },
+  {
+    "id": "candidate-97",
+    "customer_message": "They have promised me that my cashback of INR 1500 will be received by 5th November, hope this doesn't repeat in future. Thanks #AmazonIndia",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I get your concern, Abhilash. Cash back shall be processed as per the timelines shared with you. Rest assured. ^SV",
+    "verified": false
+  },
+  {
+    "id": "candidate-98",
+    "customer_message": "Even after your team's promise, I have not received my cashback of INR1500 before deadline given by them.",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please reply to the email for further assistance on it. 2/2 ^RW",
+    "verified": false
+  },
+  {
+    "id": "candidate-99",
+    "customer_message": "Even after your team's promise, I have not received my cashback of INR1500 before deadline given by them.",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "As you have filled the details, you will receive an email correspondence from our team here: ^RW 1/2",
+    "verified": false
+  },
+  {
+    "id": "candidate-100",
+    "customer_message": "Wow this is great, now again i am getting mail that max eligible cashback is INR450. What the heck is wrong with Amazon support.",
+    "suggested_intent": "PAYMENT_BILLING",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Kindly reply to the email that we've sent. We'll check this for you. ^SG",
+    "verified": false
+  },
+  {
+    "id": "candidate-101",
+    "customer_message": "I want my amazon payments account CLOSED. dm me please.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I am unable to affect your account via Twitter. For real time support, phone or chat use this link: ^CH",
+    "verified": false
+  },
+  {
+    "id": "candidate-102",
+    "customer_message": "Bought an Echo Show and it won’t recognize a single account in our household. WTF, guys?",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: ^SG",
+    "verified": false
+  },
+  {
+    "id": "candidate-103",
+    "customer_message": "You have to log in. I don't remember the email address I used. Can you look up the account by my bank information?",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "It would be best if you get in touch with us by phone or chat.use this link to do so: ^CH",
+    "verified": false
+  },
+  {
+    "id": "candidate-104",
+    "customer_message": "I have tried. It’s not allowing me to access my account to cancel my membership, I haven’t even used prime in almost 3 months.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry to hear you're not able to access your account. Please use this link instead to contact us: ^LH",
+    "verified": false
+  },
+  {
+    "id": "candidate-105",
+    "customer_message": "if I add another adult to my Amazon household (with their own account) can they see my wishlists/photos/order history?",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for reaching out to us! You can find info on adding household members here: ^MO",
+    "verified": false
+  },
+  {
+    "id": "candidate-106",
+    "customer_message": "It’s not allowing me to update it to register my new amazon account. I read I’d have to do so manually. Thx 4 response.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "No problem! You may need to deregister the Kindle from the old account. You can see how here: ^AJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-107",
+    "customer_message": "i reset my password 3 times and it still says incorrect you gotta be shitting me",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the trouble! Have you tried the steps outlined here? ^LA",
+    "verified": false
+  },
+  {
+    "id": "candidate-108",
+    "customer_message": "um, my account was locked as soon as I tried to login on desktop. I still haven’t received an email on how to get it unlocked...",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry your account is locked! Please reach out directly to us here: so we can take a closer look. ^TN",
+    "verified": false
+  },
+  {
+    "id": "candidate-109",
+    "customer_message": "I need to change the language of my account to be able to get support, which I don't have the time to do, there's any other way to contact?",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Changing language is just a simple click: You can reach our support here: ^UK",
+    "verified": false
+  },
+  {
+    "id": "candidate-110",
+    "customer_message": "already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: ^WT",
+    "verified": false
+  },
+  {
+    "id": "candidate-111",
+    "customer_message": "no luck on receiving the code by text or call, will I loose my account, yesterday a phone representative tried to help already",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the challenge signing in. Please use the link from above again so that we can help. Keep us updated! ^MH",
+    "verified": false
+  },
+  {
+    "id": "candidate-112",
+    "customer_message": "Im not receiving 2step code by text or call in my smartphone can't log in into my account already got help by phone with no luck",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry you're having problems logging in. Please let us know which Amazon site you are using (.com .es). Thanks. ^SE",
+    "verified": false
+  },
+  {
+    "id": "candidate-113",
+    "customer_message": "Still not working. They sent me a link to reset the password, try and sign in with new password and still locked out.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Did information get sent to our Accounts Specialists to look into when you contacted in? ^DO",
+    "verified": false
+  },
+  {
+    "id": "candidate-114",
+    "customer_message": "Someone keeps trying to buy playstation cards on my account. Having a hard time getting customer service",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for letting us know about this, Jon. We're here to help! We can be reached 24/7 here: Please do keep us in the loop. ^BL",
+    "verified": false
+  },
+  {
+    "id": "candidate-115",
+    "customer_message": "Trying to place an order this happened before and deleting and rentering my address fixed it but now it's across multiple prime accounts to the same address",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Prime shipping refers to transit time after your orders ship, in working days. Some orders require additional processing and handling. The delivery date shown at checkout is the most accurate. ^LR",
+    "verified": false
+  },
+  {
+    "id": "candidate-116",
+    "customer_message": "why doesn't blue light filter work on kids account on the fire kids edition?",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry! Blue Shade isn't a supported feature on child profiles. ^WT",
+    "verified": false
+  },
+  {
+    "id": "candidate-117",
+    "customer_message": "WTF MAN. YALL LET SOME RANDO CHANGE MY EMAIL TO MY ACCOUNT AND NOW I CANT LOG IN. FIX IT!!!!!",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry about that, Alexis. When you can, please reach us here so we can better assist: ^BL",
+    "verified": false
+  },
+  {
+    "id": "candidate-118",
+    "customer_message": "I talked on the phone to someone who offered 10 percent off but that isn't on the account yet. Still don't know delivery date.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Which carrier was assigned to deliver your package today? ^TN",
+    "verified": false
+  },
+  {
+    "id": "candidate-119",
+    "customer_message": "everytime I try to purachase something my account will get blocked.. worst service ever. sorry to tell that.",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm so sorry for the account trouble! Have you received an e-mail regarding this issue? If so, please reply to it for more info. ^CC",
+    "verified": false
+  },
+  {
+    "id": "candidate-120",
+    "customer_message": "Would like to thankyou for ur efforts..amount credited back to my account today.!!",
+    "suggested_intent": "ACCOUNT_ACCESS",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "You're most welcome. Glad to know that refund has been credited. Have a great day ahead! ^AR",
+    "verified": false
+  },
+  {
+    "id": "candidate-121",
+    "customer_message": "since when you stop giving 20% off videogame pre-orders (amazon prime members) im confused? why?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We still offer discounts on eligible physical game pre-orders. For further details on Prime benefits: ^MB",
+    "verified": false
+  },
+  {
+    "id": "candidate-122",
+    "customer_message": "Two fake items in one day. Time to cancel my Amazon Prime membership.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! I'm so sorry to hear this. Was the item sold by Amazon directly or Third-party seller: ^LH",
+    "verified": false
+  },
+  {
+    "id": "candidate-123",
+    "customer_message": "live chat down in the UK and as a prime member I cannot t get any items delivered before Tuesday whats going on?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hi there, I'm sorry for the delivery troubles! Just to confirm, are you trying to place an order right now, or is this an ongoing issue? Are we missing the promised delivery dates here: ^DW",
+    "verified": false
+  },
+  {
+    "id": "candidate-124",
+    "customer_message": "I’ve had nothing but trouble with 2/3 of my orders this month and I’m starting to doubt my continuing my prime membership",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Without posting account information, could you provide us with a few details about the issue? We'd like to help! ^WM",
+    "verified": false
+  },
+  {
+    "id": "candidate-125",
+    "customer_message": "u just lost a prime member of many years. Not only did u mess up 3 consec orders, u refuse to make good on them.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry! We'd love to help where we can. Please give us more details without sharing personal account information. ^LM",
+    "verified": false
+  },
+  {
+    "id": "candidate-126",
+    "customer_message": "I am now cancelling this order because your delivery service just sucks despite prime membership. Switching to for future.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "you've received from our team and we will get back to you with the latest update on your issue. (2/2)^SQ",
+    "verified": false
+  },
+  {
+    "id": "candidate-127",
+    "customer_message": "Did I get a call? No. Being a Prime member means paying someone to treat you like shit. Twice!",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We can't access your account via Twitter. Without providing personal info, will you please tell us what's going on? ^TN",
+    "verified": false
+  },
+  {
+    "id": "candidate-128",
+    "customer_message": "Kindly return my prime membership amount",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please connect with our support team here: for further assistance on it. ^RW",
+    "verified": false
+  },
+  {
+    "id": "candidate-129",
+    "customer_message": "After prime membership gaurantied delivery option has vanished now",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "If the factors do not provide the feasibility of a guaranteed delivery, the option will not be available. (2/2) ^ZH",
+    "verified": false
+  },
+  {
+    "id": "candidate-130",
+    "customer_message": "No use of prime membership, return my money",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Could you please confirm, if we've missed the estimated delivery date? ^AG",
+    "verified": false
+  },
+  {
+    "id": "candidate-131",
+    "customer_message": "what is the use of Prime Membership if I am not getting my parcel on time.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We're sorry for the delay in the delivery of your order. Please contact us here: and we'll help you ^ZH",
+    "verified": false
+  },
+  {
+    "id": "candidate-132",
+    "customer_message": "why am i charged $10.99 for prime membership every month when i have purchased it for INR 499?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please connect with us here: and we'll assist you on how to proceed further. (2/2) ^KA",
+    "verified": false
+  },
+  {
+    "id": "candidate-133",
+    "customer_message": "why am i charged $10.99 for prime membership every month when i have purchased it for INR 499?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Sorry about the payment issue. This charge could be of Prime subscription on (1/2) ^KA",
+    "verified": false
+  },
+  {
+    "id": "candidate-134",
+    "customer_message": "Please elaborate. If the charges are of prime subscription on then why was i charged 499 in the first place??",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to have a look into the same; hence the request. Kindly reach out to our support team for further assistance. ^AB",
+    "verified": false
+  },
+  {
+    "id": "candidate-135",
+    "customer_message": "what’s the use of amazon prime membership if the product reaches me after 2 days of placing the order .. al false promises",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Prime subscribers are eligible to get free One-day or Two-day shipping. May I please know if the package was 1/2 ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-136",
+    "customer_message": "what’s the use of amazon prime membership if the product reaches me after 2 days of placing the order .. al false promises",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "delivered after the estimated delivery date mentioned in the order confirmation email? 2/2 ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-137",
+    "customer_message": "Hi , this is the third day in a row that I have received this message, I know Texas is big but seriously how hard is it to deliver 2 car stickers? My Prime membership is feeling pretty laughable at this point.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I am sorry to hear that, Aletta. What notifications do you get on the previous days the order was meant to be delivered? ^SM",
+    "verified": false
+  },
+  {
+    "id": "candidate-138",
+    "customer_message": "I was scammed. 6 orders, all sellers are gone and nothing send to me, how could I do now? how to stop my prime membership?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "sorry to hear that, from what Amazon marketplace were you shopping from? .com, .co.uk, .es etc? ^AS",
+    "verified": false
+  },
+  {
+    "id": "candidate-139",
+    "customer_message": "how to stop my prime membership, since i was scammed and you do nothing to me, i need to cancel my membership.",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Which Amazon website did this happen on? ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-140",
+    "customer_message": "Why Amazon.in prime members are not allowed to access kindle prime reading section?",
+    "suggested_intent": "PRIME_MEMBERSHIP",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please connect with us here: and we'll help you with this. ^HK",
+    "verified": false
+  },
+  {
+    "id": "candidate-141",
+    "customer_message": "In response to your packing video, this packaging was for a 2ft washing line pole",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for bringing this to our attention! Please also leave packing feedback here: so we may improve.^KL",
+    "verified": false
+  },
+  {
+    "id": "candidate-142",
+    "customer_message": "since when you stop giving 20% off videogame pre-orders (amazon prime members) im confused? why?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We still offer discounts on eligible physical game pre-orders. For further details on Prime benefits: ^MB",
+    "verified": false
+  },
+  {
+    "id": "candidate-143",
+    "customer_message": "why your videos on Germany breaks too?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Have you already tried a restart? Kind regards ^NW",
+    "verified": false
+  },
+  {
+    "id": "candidate-144",
+    "customer_message": "Que hueva tendré que veré vaselina por Amazon prime video. Obvio me pasan una lana por promocionar prime video",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hola Val Damon. Puedes hacer una prueba gratuita de Prime Video si nunca lo has usado. Accesa este enlace: ^JJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-145",
+    "customer_message": "I go to watch #thebay and episode 7 & 8 aren’t there??? 😭",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry, I see we do have both episodes available. Can you let us know which device you are streaming this on? ^EB",
+    "verified": false
+  },
+  {
+    "id": "candidate-146",
+    "customer_message": "thanks for the new movies on Prime video. Something new to distract from pain during CRPS flare ups #TheWitches 🌙🎃",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We are happy that our new selections bring you some comfort. Stay strong Cassandra ^CH",
+    "verified": false
+  },
+  {
+    "id": "candidate-147",
+    "customer_message": "Please upload jaya janaki nayaka full movie bro or balakrishna paisa vasool movie bro",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "where we highlight the latest movies and TV shows we have available. (2/2)^SF",
+    "verified": false
+  },
+  {
+    "id": "candidate-148",
+    "customer_message": "Please upload jaya janaki nayaka full movie bro or balakrishna paisa vasool movie bro",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We will continue to add new content. Keeping checking (1/2)^SF",
+    "verified": false
+  },
+  {
+    "id": "candidate-149",
+    "customer_message": "Now that I’m streaming to your Prime Do U have audio assisted movies, TV, etc. as I am visually impaired. ?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "That's a great question! You can learn more on how to turn on Audio Descriptions here: ^SE",
+    "verified": false
+  },
+  {
+    "id": "candidate-150",
+    "customer_message": "The link didnt go to app instead asked me to buy movies :-) I am looking for those on Amazon prime. Search function said did not exist",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry the link didn't work. You can view the list of Audio Descriptions by clicking here: ^AY",
+    "verified": false
+  },
+  {
+    "id": "candidate-151",
+    "customer_message": ": can we connect echo dot to videocon smart tv? If yes, how?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "You'll not be able to connect the Echo to your smart TV. ^SH",
+    "verified": false
+  },
+  {
+    "id": "candidate-152",
+    "customer_message": "why is Videos option missing in the skills for Alexa in India? Not able to connect my fire TV.",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "This feature, as of now isn't available. It will soon be available. Kindly stay tuned! ^HR",
+    "verified": false
+  },
+  {
+    "id": "candidate-153",
+    "customer_message": "Till now I have noticed it in a couple of episodes of mike and molly and also in 'the middle'",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Thanks for bringing this to our notice; we'll check and forward this internally for review. ^VN",
+    "verified": false
+  },
+  {
+    "id": "candidate-154",
+    "customer_message": "Seems like it's a random issue, checked just now mike and molly episodes are back",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Awesome! Happy streaming ^MD",
+    "verified": false
+  },
+  {
+    "id": "candidate-155",
+    "customer_message": "why are some episodes in the series showing as unavailable???",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to look into this for you. Could you please let us know the name of the series and the episodes which shows as unavailable ? ^AS",
+    "verified": false
+  },
+  {
+    "id": "candidate-156",
+    "customer_message": "When will Madam Secretary S4 will be available on Amazon Prime Video India?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Currently, we do not have an update on this. Please stay tuned. ^HK",
+    "verified": false
+  },
+  {
+    "id": "candidate-157",
+    "customer_message": "I am unable to Use Prime Video even though I am Prime Member it tells me to sign up for prime Membership",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Apologies for the trouble. Could you please let us know if you have logged in on prime enabled account? ^SB",
+    "verified": false
+  },
+  {
+    "id": "candidate-158",
+    "customer_message": "I am a Prime customer. Is Amazon Video free for me or do I still need to pay some monthly subscription charges?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "If you're a prime member, you will have access to prime video. Kindly download the app and login with your registered account.^SQ",
+    "verified": false
+  },
+  {
+    "id": "candidate-159",
+    "customer_message": "Yep! Podcasts seem to work differently from music. No option to add podcast episodes to playlist. So can’t listen on Echo, shame.",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Ok, sorry Lauren. ^KM",
+    "verified": false
+  },
+  {
+    "id": "candidate-160",
+    "customer_message": "wieviele leute können gleichzeitig bei einem amazon prime abo die videos ansehen ?",
+    "suggested_intent": "PRIME_VIDEO",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Es können zwei Titel gleichzeitig geschaut werden. Aber nicht der gleiche Titel parallel auf zwei Geräten. ^AN",
+    "verified": false
+  },
+  {
+    "id": "candidate-161",
+    "customer_message": "amazonのfireTVstickが見れない😢",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "こんにちは、アマゾン公式です。Fire TV Stickが見れないというのは、どのような状況でしょうか。一般的なトラブルシューティングを記載したヘルプがございますので、ご参照ください。 ET",
+    "verified": false
+  },
+  {
+    "id": "candidate-162",
+    "customer_message": "Is the Echo Show no longer supported?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "The Echo Show is supported, please reach us for some live troubleshooting at your convenience: ^DW",
+    "verified": false
+  },
+  {
+    "id": "candidate-163",
+    "customer_message": "Bought an Echo Show and it won’t recognize a single account in our household. WTF, guys?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no, I'm sorry for the issues! For troubleshooting, please check out our Echo Help pages here: ^SG",
+    "verified": false
+  },
+  {
+    "id": "candidate-164",
+    "customer_message": "My Kindle not working properly is breaking my heart! 😩💔",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Oh no! We'd like to help you with this, Kelly! Can you tell us more about what's happening with the Kindle? Thanks! ^AJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-165",
+    "customer_message": "先日教えていただいたように、fireTVstickとルーターの両方を再起動してみたら、前回のようには途切れなくなりました！ありがとうございます😊今の所大丈夫ですが、あとは72時間TV当日に接続が切れてしまわないように祈るのみです...。 お礼と報告まで。",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "わざわざご連絡をいただき、ありがとうございます。問題が改善されたようで、何よりでございます。万が一再度お困りのことがございましたら、ご遠慮なくお知らせください🙏 YM",
+    "verified": false
+  },
+  {
+    "id": "candidate-166",
+    "customer_message": "fire TV stickを購入したのですが一瞬しかうつりません.°(ಗдಗ。)°.どうしたらいいのでしょうか...",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "アマゾンです。お困りの状況が特定できないのですが、エラーメッセージや画面の状況、操作方法など詳しい状況を教えていただけますか。ご利用端末はテレビですかPS4などのゲーム機でしょうか。ET",
+    "verified": false
+  },
+  {
+    "id": "candidate-167",
+    "customer_message": "I've been in the prime queue, kindle queue, the echo queue, and now on hold again.",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to look deeper into this issue. Please provide us with more information here: ^LH",
+    "verified": false
+  },
+  {
+    "id": "candidate-168",
+    "customer_message": ", hi, I've bought an Amazon echo for for a present do they also need an Amazon alexa?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Alexa is a free download you will need to set-up your new Amazon Echo! You can learn more here: ^BN",
+    "verified": false
+  },
+  {
+    "id": "candidate-169",
+    "customer_message": "I swear Amazon are trying to annoy me, I've just ordered another package and had a shipped to wrong carrier facility message again and my order may be delayed. 1st echo dot and then 3 packages lost and now another echo dot possibly delayed.",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm sorry for the ongoing trouble with your deliveries! Have you had a chance to contact us about this: If so, what information or options were we able to offer? ^SB",
+    "verified": false
+  },
+  {
+    "id": "candidate-170",
+    "customer_message": "I have 2 echos and set up multi room music playback. How do you switch back and forth between multi room audio and playing on only one? Sometimes I like whole house, sometimes I don't want to wake up my wife. #echo #alexa",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please try asking Alexa to stop playing your music, and then ask her to play your music again, but without referencing the \"Multi-Room Music group\" you were previously using: ^JR",
+    "verified": false
+  },
+  {
+    "id": "candidate-171",
+    "customer_message": "Hecho el procedimiento, lo que me interesa y exijo es que sea devuelto mi dinero puesto que jamás he adquirido algún articulo por este medio",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Mary, si no te has beneficiado de las ventajas de Prime, recibirás el reembolso. Recibirás un e-mail con más detalles. ^LG",
+    "verified": false
+  },
+  {
+    "id": "candidate-172",
+    "customer_message": "my original echo some time say things without asking here anything ! This is really wired and creepy and scary!!",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Hmm, that's strange! Try going to Settings and reviewing your history. From here, you can see what prompted your Echo. ^FD",
+    "verified": false
+  },
+  {
+    "id": "candidate-173",
+    "customer_message": "please teach Alexa slang. I've been trying to play Momentz by gorillaz for the last 30 minutes.",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We are always looking for ways to improve! You can provide your feedback to our developers here: ^EA",
+    "verified": false
+  },
+  {
+    "id": "candidate-174",
+    "customer_message": "Hey , é possível sincronizar minha conta do para ler no Kindle?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Olá, Tiago. Atualmente essa opção não está disponível. Qualquer novidade será anunciada no nosso site e redes sociais. ^CR",
+    "verified": false
+  },
+  {
+    "id": "candidate-175",
+    "customer_message": "I love my new Kindle Oasis! Please tell me that immersion reading will be added in a future update?!",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "I'm glad you're enjoying the Oasis! You're welcome to send us feedback with this e-mail: __email__. ^SJ",
+    "verified": false
+  },
+  {
+    "id": "candidate-176",
+    "customer_message": "Uhh... my 10 y/o just asked Alexa to play Halloween music. First song opening lyric: \"yippee kiyay motherfucker.\" Wtf ??",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Yikes! We'd like to take a closer look into this. Please reach out with more information here: ^DG",
+    "verified": false
+  },
+  {
+    "id": "candidate-177",
+    "customer_message": "Regretting having bought Kindle Fire Kids Edition. Every day it has some random problem I have to fix. Now saying theres no SD card.",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Please try to remove and reinsert the SD card following the steps here: Let us know how this helps! ^MB",
+    "verified": false
+  },
+  {
+    "id": "candidate-178",
+    "customer_message": "enviei meu ebook para o premio Kindle às 22h de hoje. Porém, a ferramenta kdp fala q demora 72h pra publicar. Vou concorrer mesmo assim, certo?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "Recomendo entrar em contato diretamente com o SAC da KDP, para eles conferirem o seu caso: ^CR",
+    "verified": false
+  },
+  {
+    "id": "candidate-179",
+    "customer_message": "Amazon Kindle の「スライダー」が「マイライブラリー」になったの、本当に不便。「スライダー」は「スライダーから削除」を使うことで、「今、読んでいる(or次に読みたい)本」の枠として便利だった。「マイライブラリー」はどんな思想の枠ですか？",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "ご不便をおかけしております。アップデートにより仕様が変更される場合がありますが、変更の背景等については詳細をお伝えすることができませんことをご了承ください。ご指摘いただいた点は担当部署に伝えさせていただき、今後もサービスや機能の改善に努めて参ります。 YM",
+    "verified": false
+  },
+  {
+    "id": "candidate-180",
+    "customer_message": "How do I disable notifications indicated by the bell icon in upper left corner of iOS Kindle app?",
+    "suggested_intent": "PRODUCT_DEVICE_SUPPORT",
+    "verified_intent": "",
+    "expected_action": "",
+    "response_requirements": [],
+    "source_agent_response": "We'd like to help in real-time! When you have a free moment, please reach out to us here: ^HM",
+    "verified": false
+  }
+]
