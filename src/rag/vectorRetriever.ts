@@ -1,8 +1,14 @@
-import type { KnowledgeChunk } from "./chunker.js";
-import { createEmbedding } from "./embedding.js";
+import {
+  createEmbedding,
+} from "./embedding.js";
+
+import {
+  loadAmazonVectorIndex,
+  type StoredVector,
+} from "./vectorStore.js";
 
 export interface VectorResult {
-  chunk: KnowledgeChunk;
+  chunk: StoredVector["chunk"];
   score: number;
 }
 
@@ -15,13 +21,12 @@ function cosineSimilarity(
   let magnitudeB = 0;
 
   for (let i = 0; i < a.length; i++) {
-    const valueA = a[i];
-    const valueB = b[i];
+    const valueA = a[i]!;
+    const valueB = b[i]!;
 
     if (valueA === undefined || valueB === undefined) {
       continue;
     }
-
     dot += valueA * valueB;
     magnitudeA += valueA * valueA;
     magnitudeB += valueB * valueB;
@@ -33,19 +38,20 @@ function cosineSimilarity(
 
   return (
     dot /
-    (Math.sqrt(magnitudeA) * Math.sqrt(magnitudeB))
+    (Math.sqrt(magnitudeA) *
+      Math.sqrt(magnitudeB))
   );
 }
 
-export async function retrieveByVector(
+export async function retrieveFromAmazonVectorStore(
   query: string,
-  documents: {
-    chunk: KnowledgeChunk;
-    embedding: number[];
-  }[],
   topK = 5
 ): Promise<VectorResult[]> {
-  const queryEmbedding = await createEmbedding(query);
+  const queryEmbedding =
+    await createEmbedding(query);
+
+  const documents =
+    loadAmazonVectorIndex();
 
   return documents
     .map((document) => ({

@@ -1,62 +1,45 @@
-import fs from "fs";
-
 import {
-  createEmbedding,
-  retrieveByVector,
-  type KnowledgeChunk,
+  retrieveFromAmazonVectorStore,
 } from "../src/rag/index.js";
 
-const knowledgePath =
-  "data/processed/amazon_knowledge.json";
+const queries = [
+  "Where is my Amazon order?",
+  "My package was delivered but I did not receive it.",
+  "I want a refund for my order.",
+  "I cannot login to my Amazon account.",
+  "My Prime Video is not working.",
+  "My Fire TV Stick is not working.",
+];
 
-const allChunks: KnowledgeChunk[] = JSON.parse(
-  fs.readFileSync(knowledgePath, "utf-8")
-);
+console.log("\n===== FULL VECTOR RETRIEVER TEST =====");
 
-// Only use 300 chunks for the first test.
-const testChunks = allChunks.slice(0, 300);
+for (const query of queries) {
+  console.log("\nCustomer:", query);
 
-console.log("\n===== BUILDING TEST VECTOR INDEX =====");
-console.log("Test chunks:", testChunks.length);
+  const results =
+    await retrieveFromAmazonVectorStore(query, 3);
 
-const documents = [];
+  results.forEach(
+    (result, index) => {
+      console.log(`\nResult ${index + 1}`);
+      console.log(
+        "Similarity:",
+        result.score.toFixed(4)
+      );
+      console.log(
+        "Customer:",
+        result.chunk.question
+      );
+      console.log(
+        "Support:",
+        result.chunk.answer
+      );
+    }
+  );
 
-for (const chunk of testChunks) {
-  const embedding = await createEmbedding(chunk.text);
-
-  documents.push({
-    chunk,
-    embedding,
-  });
+  console.log(
+    "\n--------------------------------------"
+  );
 }
 
-console.log("Embeddings created:", documents.length);
-
-const query = "Where is my Amazon order?";
-
-console.log("\n===== VECTOR RETRIEVAL TEST =====");
-console.log("Customer:", query);
-
-const results = await retrieveByVector(
-  query,
-  documents,
-  5
-);
-
-results.forEach((result, index) => {
-  console.log(`\nResult ${index + 1}`);
-  console.log(
-    "Similarity:",
-    result.score.toFixed(4)
-  );
-  console.log(
-    "Customer:",
-    result.chunk.question
-  );
-  console.log(
-    "Support:",
-    result.chunk.answer
-  );
-});
-
-console.log("\n==================================\n");
+console.log("\n======================================\n");
