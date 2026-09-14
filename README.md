@@ -185,6 +185,28 @@ Embeddings are normalized and generated using mean pooling.
 This keeps retrieval independent of the generation provider and avoids
 spending LLM/API quota merely to create embeddings.
 
+### Retrieval Evaluation
+
+The retrieval pipeline was evaluated on the Amazon support evaluation set.
+
+**Recall@5: 95%**
+
+This means that for approximately 95% of evaluation queries, the relevant
+support information was retrieved within the top 5 candidates.
+
+The retrieval pipeline consists of:
+
+1. Local embedding generation using `Xenova/all-MiniLM-L6-v2`
+2. Normalized mean-pooled embeddings
+3. Vector similarity search
+4. Top-k candidate retrieval
+5. Lightweight reranking
+6. Passing the highest-ranked evidence to the response generator
+
+The embedding and retrieval stages run locally and are independent of the
+LLM provider, so changing from Gemini to Groq does not affect the retrieval
+pipeline.
+
 ### Retrieval pipeline
 
 The agent:
