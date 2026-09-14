@@ -1,0 +1,103 @@
+[
+  {
+    "id": "candidate-1",
+    "message": "3 different people have given 3 different answers and I still don't have my order. Says delivered Saturday, was not, I was home all day",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry to hear that your package was marked as delivered on Saturday even though you didn’t receive it. Because this situation requires a detailed review of your order, please contact Amazon Customer Service directly so they can investigate the delivery and help resolve the issue for you. You can reach them through the “Help” section on the Amazon website or the Amazon app. Thank you for your patience.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.6700534130711782,
+    "passed": true
+  },
+  {
+    "id": "candidate-2",
+    "message": "How about you guys figure out my Xbox One X project Scorpio edition first. No expected delivery or shipping date and it’s only a week away",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry you haven’t received an estimated delivery date for your Xbox One X Project Scorpio edition. We understand how important it is to know when your order will arrive.\n\nBecause this requires a detailed look at your specific order, please reach out to Amazon Customer Service directly. They’ll be able to investigate the status and provide you with the most up‑to‑date shipping information. Thank you for your patience.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.8756961098614153,
+    "passed": true
+  },
+  {
+    "id": "candidate-3",
+    "message": "Yeah this is crazy we’re less than a week away and still no Shipping Information on something that we Pre-ordered back in August",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry you’re still waiting for shipping information on your pre‑order. I understand how frustrating this must be, especially with your event so close.\n\nBecause this issue requires a detailed review of your order, please contact Amazon Customer Service directly. They’ll be able to investigate the status of your pre‑order and provide you with the most up‑to‑date information.\n\nThank you for your patience, and we appreciate you reaching out.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.7391367352922036,
+    "passed": true
+  },
+  {
+    "id": "candidate-4",
+    "message": "my package was ‘accidentally’ opened.. 4 items missing worth £97. You need better delivery drivers!!",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m very sorry to hear that your package arrived opened and that several items are missing. We understand how frustrating this must be.\n\nTo resolve this quickly, please get in touch with Amazon Customer Service so we can investigate the delivery and arrange a solution for you. You can start a live chat or request a call through the “Help” section on the Amazon website, or call 1‑800‑HELP‑NOW (1‑800‑435‑5699).  \n\nThank you for bringing this to our attention, and we’ll do everything we can to help get this sorted.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.8157171375613781,
+    "passed": true
+  },
+  {
+    "id": "candidate-5",
+    "message": "why is my order at my local courier for the last 6 days and still hasn’t been delivered to me?? Over 1 week late 😡",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry you’ve been waiting so long for your delivery. Since this order has been with the local courier for several days, we’ll need to look into it further on your account.\n\nPlease contact Amazon Customer Service directly (via the **Contact Us** page, chat, or phone) so we can investigate the shipment and get it resolved for you as quickly as possible. Thank you for your patience.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.8399065019296218,
+    "passed": true
+  },
+  {
+    "id": "candidate-6",
+    "message": ". Item has not been delivered but tracking says it was handed to me over an hour ago... 2nd time this has happened. Sort it out",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": null,
+    "retrievedCount": 0,
+    "topSimilarity": 0,
+    "passed": false,
+    "error": "Response validation failed: Response claims an action that the system cannot directly perform."
+  },
+  {
+    "id": "candidate-7",
+    "message": "That page is useless - doesn’t allow me to state it hasn’t been delivered; only tells me it has! How can you sort this out?",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry you’re having trouble confirming the delivery status. Since this requires a review of your specific order, the best next step is to contact Amazon Customer Service directly. You can request a call back, start a chat, or speak with an associate by visiting **Help → Contact Us** on the Amazon website or app. They’ll be able to investigate the delivery details and resolve the issue for you.",
+    "retrievedCount": 1,
+    "topSimilarity": 0.649919622447053,
+    "passed": true
+  },
+  {
+    "id": "candidate-8",
+    "message": "Is it possible to prevent AMZL from delivering my packages moving forward? Stuff is either lost/stolen/broken EVERY time.",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry you’ve had repeated problems with deliveries from AMZL. I understand how frustrating lost, stolen, or damaged packages can be.\n\nTo have this issue reviewed and to explore options for future deliveries, please contact Amazon Customer Service directly. You can do this through the **Help → Contact Us** section of your Amazon account, or by calling the phone number listed on the Help page. A representative will be able to investigate your specific orders and discuss any delivery preferences or restrictions you’d like to set.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.8589875472756126,
+    "passed": true
+  },
+  {
+    "id": "candidate-9",
+    "message": "delivery I paid for today,didn’t arrive.why not?i paid enough for it.where is it??I’m unhappy.refund the delivery charge",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "I’m sorry to hear that your delivery didn’t arrive as expected. I understand how frustrating this must be.\n\nBecause this issue requires a detailed look at your order, please reach out to Amazon Customer Service directly. You can start a chat or call us from the Help section of the Amazon website or app. Have your order number handy so we can investigate the delivery and discuss a refund of the shipping charge if appropriate. \n\nThank you for your patience, and we’ll do our best to resolve this for you.",
+    "retrievedCount": 3,
+    "topSimilarity": 0.7185658241590221,
+    "passed": true
+  },
+  {
+    "id": "candidate-10",
+    "message": "Anna Inspired in idea lab at school to be package being shipped to Narnia! \"Amazon can go anywhere\" according to Anna.",
+    "expectedIntent": "ORDER_DELIVERY",
+    "expectedAction": "ESCALATE",
+    "response": "Hi Anna,\n\nI’m sorry to hear that your package hasn’t arrived as expected. Because this situation requires a review of your specific order details, the best next step is to contact Amazon Customer Service directly. They can access your order information and investigate the delivery for you.\n\nYou can reach them through the “Help” section on Amazon.com or by calling the customer service phone number listed on the website.\n\nThank you for your understanding, and we hope your package reaches you (or Narnia) soon!",
+    "retrievedCount": 1,
+    "topSimilarity": 0.850503480184635,
+    "passed": true
+  }
+]
