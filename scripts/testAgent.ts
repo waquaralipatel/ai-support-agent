@@ -5,9 +5,12 @@ import {
 const request = {
   message:
     "My package was delivered but I did not receive it.",
+
   intent: "ORDER_DELIVERY",
+
   expectedAction:
     "Help the customer investigate a delivered-but-not-received package.",
+
   responseRequirements: [
     "Be empathetic.",
     "Do not request public personal information.",
@@ -22,6 +25,15 @@ const response =
 
 console.log("\nCustomer:");
 console.log(request.message);
+
+console.log("\nDetected Intent:");
+console.log(request.intent);
+
+console.log("\nPolicy Action:");
+console.log(response.action);
+
+console.log("\nEscalation Rule:");
+console.log(response.escalationRule ?? "NONE");
 
 console.log("\nAgent:");
 console.log(response.message);

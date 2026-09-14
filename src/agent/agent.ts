@@ -15,6 +15,10 @@ import {
   resolvePolicy,
 } from "./policy.js";
 
+import {
+  classifyIntent,
+} from "./classifier.js";
+
 export interface SupportRequest {
   message: string;
   intent?: string;
@@ -62,6 +66,15 @@ Rules:
 export async function answerCustomer(
   request: SupportRequest
 ): Promise<SupportResponse> {
+  const classification = await classifyIntent(
+    request.message
+  );
+
+  const intent =
+    request.intent ?? classification.intent;
+
+  const policy = resolvePolicy(intent);
+
   const retrieved =
     await retrieveFromAmazonVectorStore(
       request.message,
@@ -72,11 +85,6 @@ export async function answerCustomer(
     retrieved,
     3
   );
-
-  const intent =
-    request.intent ?? "OTHER_SUPPORT";
-
-  const policy = resolvePolicy(intent);
 
   const evidence = ranked
     .map(
@@ -95,6 +103,9 @@ ${request.message}
 
 Detected intent:
 ${intent}
+
+Intent confidence:
+${classification.confidence.toFixed(4)}
 
 Policy action:
 ${policy.action}
@@ -150,10 +161,14 @@ Important:
   return {
     message: result.response,
     retrievedCount: ranked.length,
-    topSimilarity: ranked[0]?.score ?? 0,
+    topSimilarity:
+      ranked[0]?.score ?? 0,
     action: policy.action,
     ...(policy.escalationRule
-      ? { escalationRule: policy.escalationRule }
+      ? {
+          escalationRule:
+            policy.escalationRule,
+        }
       : {}),
   };
 }
